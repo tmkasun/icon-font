@@ -1,0 +1,20 @@
+{
+    "name": "siddhi-icons",
+    "version": "0.0.1",
+    "description": "",
+    "url": "",
+    "git": "",
+    "repository": "",
+    "private": false,
+    "designer": "WSO2",
+    "designerURL": "http://wso2.com",
+    "license": "Apache-2.0",
+    "licenseURL": "",
+    "dependencies": {
+        "webfonts-generator": "0.4.0",
+        "properties-reader": "0.0.16"
+    },
+    "scripts": {
+        "start": "node index.js"
+    }
+}
