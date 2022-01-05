@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+  Copyright (c) 2021, WSO2 Inc. (http://www.wso2.com). All Rights Reserved.
+ 
+ - This software is the property of WSO2 Inc. and its suppliers, if any.
+ - Dissemination of any information or reproduction of any material contained
+ - herein is strictly forbidden, unless permitted by WSO2 in accordance with
+ - the WSO2 Commercial License available at http://wso2.com/licenses.
+ - For specific language governing the permissions and limitations under
+ - this license, please see the license as well as any agreement you’ve
+ - entered into with WSO2 governing the purchase of this software and any
+ - associated services.
+ -->
+<svg version="1.1" id="line-chart" x="0px" y="0px" viewBox="0 0 14 14">
+<path id="Combined_Shape" d="M8.75,14h-3.5V1.3125C5.25,0.5876263,5.837626,0,6.5625,0h0.875
+	C8.1623735,0,8.75,0.5876263,8.75,1.3125V14L8.75,14z M6.125,1.3125V13.125h1.75V1.3125
+	C7.8750701,1.1011943,7.7241044,0.9200351,7.5162501,0.882L7.4375,0.875h-0.875C6.3208752,0.875,6.125,1.0708754,6.125,1.3125z
+	 M3.5,14H0V8.3125C0,7.587626,0.5876263,7,1.3125,7h0.875C2.9123738,7,3.5,7.587626,3.5,8.3125V14L3.5,14z M0.875,8.3125v4.8125
+	h1.75V8.3125c0.0000703-0.2113056-0.1508956-0.3924646-0.3587501-0.4304996L2.1875,7.875h-0.875
+	C1.0708754,7.875,0.875,8.0708752,0.875,8.3125z M14,14h-3.5V3.9375c0-0.7248738,0.5876265-1.3125,1.3125-1.3125h0.875
+	C13.4123735,2.625,14,3.2126262,14,3.9375V14L14,14z M11.375,3.9375v9.1875h1.75V3.9375
+	c0.0000706-0.2113056-0.1508951-0.3924651-0.3587494-0.4305L12.6875,3.5h-0.875C11.5708752,3.5,11.375,3.6958752,11.375,3.9375z"/>
+</svg>

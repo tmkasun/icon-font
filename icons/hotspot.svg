@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+  Copyright (c) 2021, WSO2 Inc. (http://www.wso2.com). All Rights Reserved.
+ 
+ - This software is the property of WSO2 Inc. and its suppliers, if any.
+ - Dissemination of any information or reproduction of any material contained
+ - herein is strictly forbidden, unless permitted by WSO2 in accordance with
+ - the WSO2 Commercial License available at http://wso2.com/licenses.
+ - For specific language governing the permissions and limitations under
+ - this license, please see the license as well as any agreement you’ve
+ - entered into with WSO2 governing the purchase of this software and any
+ - associated services.
+ -->
+<svg version="1.1" id="hotspot" x="0px" y="0px" viewBox="0 0 14 14">
+<path id="Combined_Shape" d="M0,7c0-3.8659933,3.1340067-7,7-7s7,3.1340067,7,7s-3.1340065,7-7,7
+	C3.1360054,13.9951792,0.004821,10.8639946,0,7z M0.875,7c0,3.3827438,2.7422562,6.125,6.125,6.125S13.125,10.3827438,13.125,7
+	S10.3827438,0.875,7,0.875C3.618855,0.8788575,0.8788577,3.618855,0.875,7z M4.8125,7c0-1.2081232,0.9793768-2.1875,2.1875-2.1875
+	S9.1875,5.7918768,9.1875,7S8.2081223,9.1875,7,9.1875S4.8125,8.2081223,4.8125,7z M5.6875,7
+	c0,0.724874,0.587626,1.3125,1.3125,1.3125S8.3125,7.724874,8.3125,7S7.724874,5.6875,7,5.6875S5.6875,6.275126,5.6875,7z"/>
+</svg>

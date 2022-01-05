@@ -1,5 +1,6 @@
 {
-    "name": "siddhi-icons",
+    "name": "choreo-icons",
+    "fontFamilyName": "Choreo Icons",
     "version": "0.0.1",
     "description": "",
     "url": "",
@@ -10,9 +11,8 @@
     "designerURL": "http://wso2.com",
     "license": "Apache-2.0",
     "licenseURL": "",
-    "dependencies": {
-        "webfonts-generator": "0.4.0",
-        "properties-reader": "0.0.16"
+    "devDependencies": {
+        "webfonts-generator": "0.4.0"
     },
     "scripts": {
         "start": "node index.js"

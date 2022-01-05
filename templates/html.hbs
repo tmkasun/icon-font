@@ -1,36 +1,61 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 	<meta charset="UTF-8">
 	<title>{{fontName}}</title>
 	<style>
 		body {
 			font-family: sans-serif;
-			margin: 0;
+			margin: 0 auto;
 			padding: 10px 20px;
+			width: 80%;
+		}
+
+		.main_preview_wrapper {
+			display: flex;
+			flex-direction: row;
+			flex-wrap: wrap;
 		}
 
 		.preview {
+			height: 80px;
+			width: 80px;
+			background-color: #f7f7f7;
+			margin: 26px 14px;
 			line-height: 2em;
+			border-radius: 5px;
+			text-align: center;
+			color: #40404B;
+			line-height: 20px;
 		}
 
 		.preview__icon {
-			display: inline-block;
-			width: 32px;
+			display: flex;
+			width: 80px;
+			height: 80px;
+			font-size: 20px;
 			text-align: center;
+			align-items: center;
+			justify-content: center;
+			margin-bottom: 5px;
 		}
 	</style>
-	<link href="css/{{fontName}}.css" rel="stylesheet" type="text/css" />
+	<link href="fonts/{{fontName}}.css" rel="stylesheet" type="text/css" />
 </head>
+
 <body>
 	<h1>{{fontName}}</h1>
-	{{#each names}}
-	<div class="preview">
-		<span class="preview__icon">
-			<span class="{{../iconSelector}} {{../classPrefix}}{{this}}"></span>
-		</span>
-		<span>{{this}}</span>
+	<div class="main_preview_wrapper">
+		{{#each names}}
+		<div class="preview">
+			<span class="preview__icon">
+				<span class="{{../iconSelector}} {{../classPrefix}}{{this}}"></span>
+			</span>
+			<span>{{this}}</span>
+		</div>
+		{{/each}}
 	</div>
-	{{/each}}
 </body>
+
 </html>
