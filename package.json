@@ -11,10 +11,10 @@
     "designerURL": "http://wso2.com",
     "license": "Apache-2.0",
     "licenseURL": "",
-    "devDependencies": {
-        "webfonts-generator": "0.4.0"
-    },
     "scripts": {
-        "start": "node index.js"
+        "build": "rm -R dist/* ; fantasticon svgs -o dist; mv dist/icons.html dist/index.html"
+    },
+    "devDependencies": {
+        "fantasticon": "^1.2.3"
     }
 }
