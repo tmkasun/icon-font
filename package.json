@@ -12,7 +12,7 @@
     "license": "Apache-2.0",
     "licenseURL": "",
     "scripts": {
-        "build": "rm -R dist/* ; fantasticon svgs --debug -o dist; mv dist/icons.html dist/index.html"
+        "build": "rm -R dist/* ; fantasticon icons --debug -o dist; mv dist/icons.html dist/index.html"
     },
     "devDependencies": {
         "fantasticon": "^1.2.3"

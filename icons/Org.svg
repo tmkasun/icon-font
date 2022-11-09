@@ -1,0 +1,11 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="16" height="16" fill="#E5E5E5"/>
+<g id="Icon/Org">
+<g id="Star 1">
+<mask id="path-1-inside-1_501_1732" fill="white">
+<path d="M8 0.5L9.94674 5.82054L15.6085 6.02786L11.1499 9.52346L12.7023 14.9721L8 11.812L3.29772 14.9721L4.8501 9.52346L0.391548 6.02786L6.05326 5.82054L8 0.5Z"/>
+</mask>
+<path d="M8 0.5L9.94674 5.82054L15.6085 6.02786L11.1499 9.52346L12.7023 14.9721L8 11.812L3.29772 14.9721L4.8501 9.52346L0.391548 6.02786L6.05326 5.82054L8 0.5Z" stroke="#40404B" stroke-width="2" mask="url(#path-1-inside-1_501_1732)"/>
+</g>
+</g>
+</svg>
